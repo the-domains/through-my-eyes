@@ -1,6 +1,6 @@
 name: Through My Eyes
 favicon: null
-layout_spectrum: 0.25779
+layout_spectrum: 1
 typography_spectrum: 0.31146
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#a4a4a4'
+    - '#d0d0d0'
+    - '#181818'
+    - '#646464'
   brandStrength: 0.7656412222422659
   lightness: 0.6518916883505881
   saturation: 0.1261123325675726
