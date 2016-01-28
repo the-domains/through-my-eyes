@@ -1,6 +1,6 @@
 name: Through My Eyes
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.26843
 typography_spectrum: 0.31146
 title: Through My Eyes
 cta:
@@ -22,7 +22,7 @@ color:
     - '#d0d0d0'
     - '#181818'
     - '#646464'
-  brandStrength: 0.7656412222422659
+  brandStrength: 0.625
   lightness: 0.6518916883505881
   saturation: 0.1261123325675726
   rhythmicContrast: 0.38209507195279
